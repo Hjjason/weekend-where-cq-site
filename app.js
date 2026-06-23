@@ -307,7 +307,7 @@ function normalizePlace(place) {
 async function loadWeatherRuntime() {
   if (location.protocol !== "file:") {
     try {
-      const response = await fetch("./data/weather.json", { cache: "no-store" });
+      const response = await fetch("./data/weather.json");
       if (!response.ok) throw new Error(`weather.json ${response.status}`);
       weatherRuntime = await response.json();
       return;
@@ -321,7 +321,7 @@ async function loadWeatherRuntime() {
 async function loadPlaces() {
   if (location.protocol !== "file:") {
     try {
-      const response = await fetch("./data/places.json", { cache: "no-store" });
+      const response = await fetch("./data/places.json");
       if (!response.ok) throw new Error(`places.json ${response.status}`);
       const data = await response.json();
       return data.map(normalizePlace);
@@ -429,9 +429,9 @@ function renderCards() {
   }
 
   track.innerHTML = list
-    .map((place) => `
+    .map((place, index) => `
       <article class="place-card ${favorites.has(place.id) ? "is-favorite" : ""} ${place.image ? "" : "no-photo"}" data-id="${place.id}" tabindex="0">
-        ${place.image ? `<img src="${place.image}" alt="${place.name}" loading="lazy" />` : `<div class="photo-pending"><span>暂无授权照片</span></div>`}
+        ${place.image ? `<img src="${place.image}" alt="${place.name}" ${index < 2 ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"'} decoding="async" />` : `<div class="photo-pending"><span>暂无授权照片</span></div>`}
         <button class="favorite-toggle" type="button" data-favorite-id="${place.id}" aria-label="${favorites.has(place.id) ? "取消收藏" : "收藏"} ${place.name}" aria-pressed="${favorites.has(place.id)}">
           <span>♡</span>
           <strong>♥ 已收藏</strong>
@@ -511,7 +511,7 @@ function openDetail(place) {
     ? place.photos.slice(0, 10)
         .map((src, index) => `
           <button class="photo-thumb" type="button" data-photo-index="${index}" data-photo-src="${src}" data-photo-alt="${place.name} 照片 ${index + 1}">
-            <img src="${src}" alt="${place.name} 照片" loading="lazy" />
+            <img src="${src}" alt="${place.name} 照片" loading="lazy" decoding="async" />
           </button>
         `)
         .join("")
@@ -577,6 +577,7 @@ function showPhotoAt(index) {
 function openPhotoViewer(photos, index = 0) {
   activePhotoPhotos = photos;
   if (!activePhotoPhotos.length) return;
+  document.body.classList.add("photo-viewing");
   showPhotoAt(index);
   photoViewer.classList.add("is-open");
   photoViewer.setAttribute("aria-hidden", "false");
@@ -585,6 +586,8 @@ function openPhotoViewer(photos, index = 0) {
 function closePhotoViewer() {
   photoViewer.classList.remove("is-open");
   photoViewer.setAttribute("aria-hidden", "true");
+  document.body.classList.remove("photo-viewing");
+  resetPhotoZoom();
   photoDrag = null;
   photoPinch = null;
   photoGestureMode = "idle";
@@ -610,6 +613,7 @@ function photoPointerDistance() {
 }
 
 function beginPhotoPointer(event) {
+  event.preventDefault();
   photoPointerState.set(event.pointerId, { x: event.clientX, y: event.clientY });
   photoStage.setPointerCapture(event.pointerId);
   if (photoPointerState.size >= 2) {
@@ -631,6 +635,7 @@ function beginPhotoPointer(event) {
 }
 
 function movePhotoPointer(event) {
+  event.preventDefault();
   if (!photoPointerState.has(event.pointerId)) return;
   photoPointerState.set(event.pointerId, { x: event.clientX, y: event.clientY });
   if (photoPinch && photoPointerState.size >= 2) {
@@ -655,6 +660,7 @@ function movePhotoPointer(event) {
 }
 
 function endPhotoPointer(event) {
+  event.preventDefault();
   const drag = photoDrag;
   photoPointerState.delete(event.pointerId);
   if (photoPointerState.size < 2) photoPinch = null;
@@ -925,7 +931,7 @@ function renderSearchResults() {
     ? resultList
         .map((place) => `
           <button class="search-result" data-place-id="${place.id}">
-            ${place.image ? `<img src="${place.image}" alt="" loading="lazy" />` : `<span class="search-no-photo">待补</span>`}
+            ${place.image ? `<img src="${place.image}" alt="" loading="lazy" decoding="async" />` : `<span class="search-no-photo">待补</span>`}
             <span>
               <strong>${place.name}</strong>
               <small>${place.district} · ${place.type} · ${place.tags.slice(0, 2).join(" / ")}</small>

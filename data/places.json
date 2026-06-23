@@ -5,11 +5,11 @@
     "district": "两江新区",
     "type": "公园",
     "subtitle": "两江新区 · 公园 · 遛娃友好",
-    "image": "./assets/photos/zhaomushan/01.jpg",
+    "image": "./assets/photos-optimized/zhaomushan/01.jpg",
     "photos": [
-      "./assets/photos/zhaomushan/01.jpg",
-      "./assets/photos/zhaomushan/02.jpg",
-      "./assets/photos/zhaomushan/03.jpg"
+      "./assets/photos-optimized/zhaomushan/01.jpg",
+      "./assets/photos-optimized/zhaomushan/02.jpg",
+      "./assets/photos-optimized/zhaomushan/03.jpg"
     ],
     "phone": "023-63027397",
     "weatherText": "晴，26°C",
@@ -944,11 +944,11 @@
     "district": "渝中",
     "type": "公园",
     "subtitle": "渝中 · 老城山景 · 轻松散步",
-    "image": "./assets/photos/el-ling/01.jpg",
+    "image": "./assets/photos-optimized/el-ling/01.jpg",
     "photos": [
-      "./assets/photos/el-ling/01.jpg",
-      "./assets/photos/el-ling/02.jpg",
-      "./assets/photos/el-ling/03.jpg"
+      "./assets/photos-optimized/el-ling/01.jpg",
+      "./assets/photos-optimized/el-ling/02.jpg",
+      "./assets/photos-optimized/el-ling/03.jpg"
     ],
     "phone": "023-6365-0066",
     "weatherText": "晴，26°C",
@@ -1135,11 +1135,11 @@
     "district": "沙坪坝",
     "type": "徒步",
     "subtitle": "沙坪坝 · 徒步 · 森林路线",
-    "image": "./assets/photos/geleshan/01.jpg",
+    "image": "./assets/photos-optimized/geleshan/01.jpg",
     "photos": [
-      "./assets/photos/geleshan/01.jpg",
-      "./assets/photos/geleshan/02.jpg",
-      "./assets/photos/geleshan/03.jpg"
+      "./assets/photos-optimized/geleshan/01.jpg",
+      "./assets/photos-optimized/geleshan/02.jpg",
+      "./assets/photos-optimized/geleshan/03.jpg"
     ],
     "phone": "023-6531-0077",
     "weatherText": "多云，25°C",
@@ -1700,11 +1700,11 @@
     "district": "渝中",
     "type": "网红点",
     "subtitle": "渝中 · 夜景 · 拍照打卡",
-    "image": "./assets/photos/hongyadong/01.jpg",
+    "image": "./assets/photos-optimized/hongyadong/01.jpg",
     "photos": [
-      "./assets/photos/hongyadong/01.jpg",
-      "./assets/photos/hongyadong/02.jpg",
-      "./assets/photos/hongyadong/03.jpg"
+      "./assets/photos-optimized/hongyadong/01.jpg",
+      "./assets/photos-optimized/hongyadong/02.jpg",
+      "./assets/photos-optimized/hongyadong/03.jpg"
     ],
     "phone": "023-6303-0101",
     "weatherText": "晴，26°C",
@@ -2979,11 +2979,11 @@
     ],
     "reason": "江边视野开阔，适合傍晚散步和拍照。",
     "sourceNote": "照片来自 Wikimedia Commons 可复用授权资源，保留作者与许可信息用于后续合规审计。",
-    "image": "./assets/photos/jiangbeizui/01.jpg",
+    "image": "./assets/photos-optimized/jiangbeizui/01.jpg",
     "photos": [
-      "./assets/photos/jiangbeizui/01.jpg",
-      "./assets/photos/jiangbeizui/02.jpg",
-      "./assets/photos/jiangbeizui/03.jpg"
+      "./assets/photos-optimized/jiangbeizui/01.jpg",
+      "./assets/photos-optimized/jiangbeizui/02.jpg",
+      "./assets/photos-optimized/jiangbeizui/03.jpg"
     ],
     "phone": "暂无公开电话",
     "hourlyWeather": [],
@@ -3594,11 +3594,11 @@
     "district": "大足",
     "type": "网红点",
     "subtitle": "大足 · 世界遗产 · 石刻造像",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu.jpg?width=1600",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu.jpg?width=1200",
     "photos": [
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu.jpg?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_03.jpg?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_01.jpg?width=1600"
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_03.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu_Shike_Rock_Carvings_Chongqing_People%27s_Republic_of_China_David_McBride_Photography-0362_01.jpg?width=1200"
     ],
     "phone": [
       "023-43785774"
@@ -3641,11 +3641,11 @@
     "district": "武隆",
     "type": "徒步",
     "subtitle": "武隆 · 喀斯特 · 轻徒步",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wulongtianshengsanqiao.JPG?width=1600",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wulongtianshengsanqiao.JPG?width=1200",
     "photos": [
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Wulongtianshengsanqiao.JPG?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Wulongtianlongqiao.JPG?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Three_Natural_Bridges_CNS_2024_(6).png?width=1600"
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Wulongtianshengsanqiao.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Wulongtianlongqiao.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Three_Natural_Bridges_CNS_2024_(6).png?width=1200"
     ],
     "phone": [
       "023-77794266"
@@ -3688,11 +3688,11 @@
     "district": "渝中",
     "type": "网红点",
     "subtitle": "渝中 · 两江交汇 · 城市观景",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E6%85%B6_%E6%9C%9D%E5%A4%A9%E9%96%80_Chaotianmen_in_Chongqing.jpg?width=1600",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E6%85%B6_%E6%9C%9D%E5%A4%A9%E9%96%80_Chaotianmen_in_Chongqing.jpg?width=1200",
     "photos": [
-      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E6%85%B6_%E6%9C%9D%E5%A4%A9%E9%96%80_Chaotianmen_in_Chongqing.jpg?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_-_View_03.jpg?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chaotianmen_Yangtze_River_Bridge.JPG?width=1600"
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E6%85%B6_%E6%9C%9D%E5%A4%A9%E9%96%80_Chaotianmen_in_Chongqing.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_-_View_03.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chaotianmen_Yangtze_River_Bridge.JPG?width=1200"
     ],
     "phone": [
       "暂无公开电话"
@@ -3735,11 +3735,11 @@
     "district": "两江新区",
     "type": "网红点",
     "subtitle": "两江新区 · 江北嘴 · 江景拍照",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Grand_Theatre_01.jpg?width=1600",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Grand_Theatre_01.jpg?width=1200",
     "photos": [
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Grand_Theatre_01.jpg?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/CQTheatre.JPG?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_-_View_03.jpg?width=1600"
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Grand_Theatre_01.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/CQTheatre.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_-_View_03.jpg?width=1200"
     ],
     "phone": [
       "023-61863166"
@@ -3782,10 +3782,10 @@
     "district": "渝中",
     "type": "网红点",
     "subtitle": "渝中 · 城市索道 · 过江体验",
-    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Changjiang_Cableway.jpg?width=1600",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Changjiang_Cableway.jpg?width=1200",
     "photos": [
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Changjiang_Cableway.jpg?width=1600",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E9%95%BF%E6%B1%9F%E7%B4%A2%E9%81%93_-_Chongqing_Yangtze_River_Cableway_-_2015.04_-_panoramio.jpg?width=1600"
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Changjiang_Cableway.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E9%95%BF%E6%B1%9F%E7%B4%A2%E9%81%93_-_Chongqing_Yangtze_River_Cableway_-_2015.04_-_panoramio.jpg?width=1200"
     ],
     "phone": [
       "023-68816888"
