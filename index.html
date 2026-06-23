@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f9fb" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="周末去哪儿" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <title>周末去哪儿</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png" />
+    <link rel="stylesheet" href="./styles.css?v=20260623b" />
+  </head>
+  <body>
+    <main class="app" aria-label="周末去哪儿 Demo">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">重庆周末灵感</p>
+          <h1>周末去哪儿</h1>
+        </div>
+        <button class="icon-btn" id="openFavorites" aria-label="收藏夹" aria-pressed="false">
+          <span class="bookmark-icon"></span>
+          <span class="fav-count" id="favCount">0</span>
+        </button>
+      </header>
+
+      <section class="weather-card" id="openCityWeather" role="button" tabindex="0" aria-label="查看重庆分时段天气">
+        <span id="todayWeather">6月10日 · 周三 晴，26°C</span>
+        <strong>适合露营</strong>
+        <button class="round-tool search-in-weather" id="openSearch" aria-label="搜索地点">
+          <span class="search-icon"></span>
+        </button>
+      </section>
+
+      <section class="district-shell" aria-label="区县筛选">
+        <nav class="filter-row district-row" id="districtFilters"></nav>
+        <div class="district-actions">
+          <button class="round-tool district-toggle" id="districtToggle" aria-label="展开区县" aria-expanded="false"></button>
+        </div>
+      </section>
+      <section class="district-panel" id="districtPanel" aria-hidden="true"></section>
+      <nav class="filter-row type-row" id="typeFilters" aria-label="类型筛选"></nav>
+
+      <section class="recommend-shell">
+        <div class="recommend-track" id="recommendTrack" aria-label="推荐地点"></div>
+        <div class="dots" id="dots"></div>
+      </section>
+
+      <footer class="disclaimer">
+        <span id="placeStats">今日新增 0 个地点，共计 0 个地点。</span>
+        本网页仅限个人参考使用，地点信息、价格、开放状态、停车和露营规则请以现场及官方/商家发布为准。收藏仅保存在当前设备浏览器中。
+      </footer>
+    </main>
+
+    <aside class="detail-sheet" id="detailSheet" aria-hidden="true">
+      <button class="sheet-backdrop" id="closeBackdrop" aria-label="关闭详情"></button>
+      <article class="sheet-card" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+        <div class="sheet-handle"></div>
+        <div class="sheet-head">
+          <div>
+            <p id="sheetType">公园</p>
+            <h2 id="sheetTitle">照母山森林公园</h2>
+          </div>
+          <button class="icon-btn compact" id="closeSheet" aria-label="关闭">×</button>
+        </div>
+        <div class="photo-strip" id="photoStrip"></div>
+        <section class="detail-reason" id="detailReason"></section>
+        <dl class="info-list" id="infoList"></dl>
+      </article>
+    </aside>
+
+    <aside class="search-sheet" id="searchSheet" aria-hidden="true">
+      <button class="sheet-backdrop" id="closeSearchBackdrop" aria-label="关闭搜索"></button>
+      <section class="search-card" role="dialog" aria-modal="true" aria-labelledby="searchTitle">
+        <div class="sheet-handle"></div>
+        <div class="search-head">
+          <h2 id="searchTitle">搜索地点</h2>
+          <button class="icon-btn compact" id="closeSearch" aria-label="关闭搜索">×</button>
+        </div>
+        <label class="search-box">
+          <span class="search-icon"></span>
+          <input id="placeSearchInput" type="search" placeholder="输入公园、营地、商圈名称" autocomplete="off" />
+        </label>
+        <div class="search-results" id="searchResults"></div>
+      </section>
+    </aside>
+
+    <aside class="nav-sheet" id="navSheet" aria-hidden="true">
+      <button class="sheet-backdrop" id="closeNavBackdrop" aria-label="关闭导航选择"></button>
+      <section class="nav-card" role="dialog" aria-modal="true" aria-labelledby="navTitle">
+        <div class="sheet-handle"></div>
+        <div class="search-head">
+          <h2 id="navTitle">选择地图导航</h2>
+          <button class="icon-btn compact" id="closeNav" aria-label="关闭导航选择">×</button>
+        </div>
+        <div class="nav-options" id="navOptions"></div>
+      </section>
+    </aside>
+
+    <aside class="weather-sheet" id="weatherSheet" aria-hidden="true">
+      <button class="sheet-backdrop" id="closeWeatherBackdrop" aria-label="关闭天气详情"></button>
+      <section class="weather-detail-card" role="dialog" aria-modal="true" aria-labelledby="weatherTitle">
+        <div class="sheet-handle"></div>
+        <div class="search-head">
+          <div>
+            <p class="weather-kicker" id="weatherKicker">今日天气</p>
+            <h2 id="weatherTitle">重庆整体天气</h2>
+          </div>
+          <button class="icon-btn compact" id="closeWeather" aria-label="关闭天气详情">×</button>
+        </div>
+        <div class="hourly-weather" id="hourlyWeather"></div>
+      </section>
+    </aside>
+
+    <aside class="photo-viewer" id="photoViewer" aria-hidden="true">
+      <button class="photo-viewer-backdrop" id="closePhotoBackdrop" aria-label="关闭照片查看"></button>
+      <section class="photo-viewer-card" role="dialog" aria-modal="true" aria-label="照片查看">
+        <button class="photo-close" id="closePhotoViewer" aria-label="关闭照片查看">×</button>
+        <div class="photo-stage" id="photoStage">
+          <img id="photoViewerImage" alt="" />
+        </div>
+        <button class="photo-nav prev" id="prevPhoto" type="button" aria-label="上一张照片">‹</button>
+        <button class="photo-nav next" id="nextPhoto" type="button" aria-label="下一张照片">›</button>
+      </section>
+    </aside>
+
+    <div class="toast" id="toast">已收藏</div>
+    <script src="./data/weather.js?v=20260623b"></script>
+    <script src="./data/places.js?v=20260623b"></script>
+    <script src="./app.js?v=20260623b"></script>
+    <script>
+      if ("serviceWorker" in navigator && location.protocol !== "file:") {
+        const reloadFlag = "weekend-sw-reloaded";
+        navigator.serviceWorker.register("./sw.js?v=20260623b").then((registration) => {
+          registration.update();
+          registration.addEventListener("updatefound", () => {
+            const worker = registration.installing;
+            if (!worker) return;
+            worker.addEventListener("statechange", () => {
+              if (worker.state === "activated" && !sessionStorage.getItem(reloadFlag)) {
+                sessionStorage.setItem(reloadFlag, "1");
+                location.reload();
+              }
+            });
+          });
+        });
+      }
+    </script>
+  </body>
+</html>

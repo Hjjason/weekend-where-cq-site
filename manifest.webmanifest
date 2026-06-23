@@ -1,0 +1,17 @@
+{
+  "name": "周末去哪儿",
+  "short_name": "周末去哪儿",
+  "description": "根据天气、人流和偏好推荐重庆周末去处的网页 App Demo。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f9fb",
+  "theme_color": "#f7f9fb",
+  "icons": [
+    {
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
