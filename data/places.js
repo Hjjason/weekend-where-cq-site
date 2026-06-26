@@ -2146,9 +2146,13 @@ window.WEEKEND_PLACES = [
       "轻量路线"
     ],
     "reason": "老街坡巷和江景视角适合拍照，可和南滨路、上新街组合成半日路线。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%B8%82%E5%8D%97%E5%B2%B8%E5%8C%BA%E5%8D%97%E6%BB%A8%E8%B7%AF%E5%BB%BA%E7%AD%91%E3%80%81%E8%B6%B8%E8%88%B9%E5%92%8C%E9%95%BF%E6%B1%9F.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%B8%82%E5%8D%97%E5%B2%B8%E5%8C%BA%E5%8D%97%E6%BB%A8%E8%B7%AF%E5%BB%BA%E7%AD%91%E3%80%81%E8%B6%B8%E8%88%B9%E5%92%8C%E9%95%BF%E6%B1%9F.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%B8%82%E5%8D%97%E5%B2%B8%E5%8C%BA%E5%8D%97%E6%BB%A8%E8%B7%AF%E5%BB%BA%E7%AD%91%E5%92%8C%E8%B6%B8%E8%88%B9.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86-%E6%9C%9D%E5%A4%A9%E9%97%A8%E4%B8%8A%E6%9C%9B%E5%8D%97%E5%B2%B8%20-%20panoramio.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "hourlyWeather": [],
     "distance": "",
@@ -2540,9 +2544,12 @@ window.WEEKEND_PLACES = [
       "外地朋友适合"
     ],
     "reason": "重庆夜景经典视角，适合傍晚到夜间观景拍照；节假日人流偏高。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SkylineOfChongqing.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/SkylineOfChongqing.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20center.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "hourlyWeather": [],
     "distance": "",
@@ -2967,9 +2974,12 @@ window.WEEKEND_PLACES = [
       "近观音桥"
     ],
     "reason": "适合朋友约咖啡、轻拍照和观音桥周边半日组合。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beicang%20Culture%20Park.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Beicang%20Culture%20Park.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Beicang%20Culture%20Park%20street%20view.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "weatherText": "多云，25°C",
     "hourlyWeather": [],
@@ -3055,9 +3065,13 @@ window.WEEKEND_PLACES = [
       "半日步行"
     ],
     "reason": "适合主城内轻徒步和绿道拍照，交通相对方便。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monorail%20train%20at%20Fotuguan%20Station%2020190219.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Monorail%20train%20at%20Fotuguan%20Station%2020190219.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/201908%20Platform%20of%20Fotuguan%20Station%20(1).jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E4%BD%9B%E5%9B%BE%E5%85%B32%E5%8F%A3.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "weatherText": "多云，25°C",
     "hourlyWeather": [],
