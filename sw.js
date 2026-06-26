@@ -1,14 +1,14 @@
-const CACHE_NAME = "weekend-app-demo-v10";
+const CACHE_NAME = "weekend-app-demo-v11";
 const APP_ASSETS = [
   "./",
   "./index.html",
-  "./styles.css?v=20260623c",
-  "./app.js?v=20260623c",
+  "./styles.css?v=20260626a",
+  "./app.js?v=20260626a",
   "./manifest.webmanifest",
   "./data/places.json",
-  "./data/places.js?v=20260623c",
+  "./data/places.js?v=20260626a",
   "./data/weather.json",
-  "./data/weather.js?v=20260623c"
+  "./data/weather.js?v=20260626a"
 ];
 
 async function putInCache(request, response) {
@@ -74,7 +74,7 @@ self.addEventListener("fetch", (event) => {
   }
 
   if (url.pathname.endsWith("/data/places.json") || url.pathname.endsWith("/data/weather.json")) {
-    event.respondWith(staleWhileRevalidate(event.request));
+    event.respondWith(networkFirstWithTimeout(event.request, 2500));
     return;
   }
 

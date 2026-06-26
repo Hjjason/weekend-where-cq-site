@@ -1891,8 +1891,12 @@ window.WEEKEND_PLACES = [
     "district": "渝中",
     "type": "网红点",
     "subtitle": "渝中 · 轻轨穿楼 · 城市打卡",
-    "image": "",
-    "photos": [],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Liziba%20Station%20with%2002031%20(20191224152311).jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Liziba%20Station%20with%2002031%20(20191224152311).jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E5%AD%90%E5%9D%9D%E7%AB%99%E8%BD%BB%E8%BD%A8%E7%A9%BF%E6%A5%BC%200023.png?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Liziba%20Station%20in%20Chongqing%20Industrial%20Museum%20DSC2425.jpg?width=1200"
+    ],
     "phone": "023-6360-0102",
     "weatherText": "多云，25°C",
     "hourlyWeather": [
@@ -2060,7 +2064,7 @@ window.WEEKEND_PLACES = [
     "reason": "城市辨识度强，适合短暂停留拍照；多云天气更适合人像。",
     "crowd": "中高",
     "weather": "多云，25°C",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
     "details": {
       "地址": "重庆市渝中区李子坝正街观景平台",
       "停车": "周边停车有限，建议轨道交通。",
@@ -2095,9 +2099,13 @@ window.WEEKEND_PLACES = [
       "雨天可调"
     ],
     "reason": "重庆代表性古镇街区，适合半日逛吃和拍照；周末人流偏高，建议错峰。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ciqikou%20Cross.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Ciqikou%20Cross.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shimahe%20of%20Chongqing%20from%20Ciqikou%202023%20(53228242865).jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Rail%20Transit%20-%20Ciqikou%20-%20Outside.JPG?width=1200"
+    ],
     "phone": "暂无公开电话",
     "weatherText": "多云，25°C",
     "hourlyWeather": [],
@@ -2263,9 +2271,13 @@ window.WEEKEND_PLACES = [
       "半日游"
     ],
     "reason": "亲子属性强，轨道交通方便；遇到天气变化也容易调整行程。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Main%20entrance%2C%20Chongqing%20Zoo%2C%20China.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Main%20entrance%2C%20Chongqing%20Zoo%2C%20China.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Giant%20panda%2C%20Chongqing%20Zoo%2C%20China.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur%20Valley%2C%20Chongqing%20Zoo%2C%20China.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "weatherText": "多云，25°C",
     "hourlyWeather": [],
@@ -2306,9 +2318,13 @@ window.WEEKEND_PLACES = [
       "错峰舒服"
     ],
     "reason": "园区空间大，适合带娃散步和轻量拍照，晴天体验更好。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Garden%20Expo%20Park%20Gate.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Garden%20Expo%20Park%20Gate.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Garden%20Expo-Houston.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E8%A5%BF%E8%97%8F%E5%9B%AD.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "hourlyWeather": [],
     "distance": "",
@@ -2348,9 +2364,13 @@ window.WEEKEND_PLACES = [
       "轻松散步"
     ],
     "reason": "主城内森林感和夜景视角兼具，适合傍晚散步。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%27en%20Pavillion%2C%20Jiangbei%2C%20Chongqing%20on%20July%202020.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%27en%20Pavillion%2C%20Jiangbei%2C%20Chongqing%20on%20July%202020.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%27en%20Pavillion%20at%20night%2C%20Jiangbei%2C%20Chongqing%20on%20July%202020.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B4%AA%E6%81%A9%E5%AF%BA%E5%85%AC%E5%9B%AD-%E6%B4%AA%E8%BF%90%E9%97%A8%20-%20panoramio.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "hourlyWeather": [],
     "distance": "",
@@ -2390,9 +2410,13 @@ window.WEEKEND_PLACES = [
       "轻运动"
     ],
     "reason": "空间开阔，适合遛娃、散步和轻运动，晴天更适合户外。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20central%20park.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20central%20park.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/2023.4.30%20%E9%87%8D%E5%BA%86%E5%B8%82%E6%B8%9D%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%A4%AE%E5%85%AC%E5%9B%AD.png?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Central%20Park%20Station%20Line%2010.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "hourlyWeather": [],
     "distance": "",
@@ -2851,9 +2875,13 @@ window.WEEKEND_PLACES = [
       "补给完整"
     ],
     "reason": "室内商业配套完整，适合雨天、高温或带娃临时调整。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20City%20Chongqing%202019-2.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20City%20Chongqing%202019-2.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20City%20Chongqing%20from%20Jiangbeizui.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20City%20Chongqing%20from%20Yangtze%20River.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "weatherText": "多云，25°C",
     "hourlyWeather": [],
@@ -2893,9 +2921,13 @@ window.WEEKEND_PLACES = [
       "近解放碑"
     ],
     "reason": "历史建筑空间辨识度高，适合文化向打卡和半日城市路线。",
-    "sourceNote": "暂无已核验授权照片；前端显示待补照片，不使用生成图或弱相关图冒充真实照片。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2023-06-23%20%E9%87%8D%E6%85%B6%E6%B9%96%E5%BB%A3%E6%9C%83%E9%A4%A8%2002.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/2023-06-23%20%E9%87%8D%E6%85%B6%E6%B9%96%E5%BB%A3%E6%9C%83%E9%A4%A8%2002.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Huguang%20Huiguan%202014.04.21%2013-14-42.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dongshuimen%20Yangtze%20River%20Bridge%20with%20Huguang%20Huiguan.jpg?width=1200"
+    ],
     "phone": "暂无公开电话",
     "weatherText": "多云，25°C",
     "hourlyWeather": [],
@@ -3443,9 +3475,11 @@ window.WEEKEND_PLACES = [
       "夏季降温"
     ],
     "reason": "夏季体感明显比主城低，峡谷栈道和溪流线更适合想走景观步道、又不想纯爬坡的人群。",
-    "sourceNote": "公开线索来自重庆市人民政府 2026-06-04 黑山谷景区介绍、万盛经开区 2024-12-27 A 级景区名单、百度地图公开 POI（地址为万盛经开区黑山镇，电话 023-48279999）。坐标采用公开资料披露的黑山谷景区地理坐标近似导航点，南北门和索道段到达点仍需结合当日路线二次确认。暂无已核验授权照片，继续使用本地占位图。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heishangu.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Heishangu.jpg?width=1200"
+    ],
     "phone": "023-48279999",
     "weatherText": "多云，23°C",
     "hourlyWeather": [],
@@ -3527,9 +3561,13 @@ window.WEEKEND_PLACES = [
       "空调友好"
     ],
     "reason": "适合高温或下雨天带娃改走室内线，互动展项多、停留时间灵活，半天安排也不赶。",
-    "sourceNote": "公开线索来自重庆科技馆官网与联系我们页面（开馆时间、游客服务电话 023-61863051、地址写作两江新区江北城文星门街7号），高德地图公开 POI（重庆科技馆A区坐标 29.570583,106.577586，地址显示江北城西大街7号）以及官网 2026-06 活动日历热度线索。暂无已核验授权照片，继续使用本地占位图；官方地址写法与地图入口写法略有差异，建议到馆前按预约页或导航入口再核对一次。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CQ%20Science%20Museum.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/CQ%20Science%20Museum.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B1%9F%E5%8C%97%E7%A7%91%E6%8A%80%E9%A6%86%20-%20panoramio.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E7%A7%91%E6%8A%80%E9%A6%86%E4%B8%8E%E6%B8%9D%E4%B8%AD%E5%8D%8A%E5%B2%9B%20-%20panoramio.jpg?width=1200"
+    ],
     "phone": "023-61863051",
     "weatherText": "天气更新后显示",
     "hourlyWeather": [],
@@ -3821,5 +3859,240 @@ window.WEEKEND_PLACES = [
     "sourceNote": "公开线索来自长江索道公开信息、地图公开 POI 与 Wikimedia Commons 开放授权图片；旺季排队时间需出发前复核。",
     "addedAt": "2026-06-23",
     "updatedAt": "2026-06-23"
+  },
+  {
+    "id": "three-gorges-museum",
+    "name": "重庆中国三峡博物馆",
+    "district": "渝中",
+    "type": "室内",
+    "subtitle": "渝中 · 室内 · 亲子人文",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Three%20Gorges%20Museum%20China.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Three%20Gorges%20Museum%20China.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Three%20Gorges%20Museum%20Chongqing.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Atrium%20of%20the%20Three%20Gorges%20Museum%2C%20Chongqing.JPG?width=1200"
+    ],
+    "phone": [
+      "023-63679066"
+    ],
+    "weatherText": "更新中",
+    "heat": 88,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5639,
+      "lng": 106.5522
+    },
+    "tags": [
+      "博物馆",
+      "雨天",
+      "亲子"
+    ],
+    "reasonKeywords": [
+      "免费预约",
+      "室内友好",
+      "文化线"
+    ],
+    "reason": "雨天、高温或带娃时很稳的室内选择，适合和人民大礼堂、曾家岩一带组成半日路线。",
+    "details": {
+      "地址": "重庆市渝中区人民路236号",
+      "停车": "人民广场及周边停车资源有限，周末建议轨道交通或错峰。",
+      "水电火": "博物馆参观场景，不提供露营水电火，严禁明火。",
+      "收费": "常设展览以官方预约和现场公告为准，特展可能另行收费。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "人民广场、人民大礼堂、曾家岩和周边餐饮较近。",
+      "充电桩": "渝中城区停车场可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-26",
+    "updatedAt": "2026-06-26"
+  },
+  {
+    "id": "great-hall-of-people",
+    "name": "重庆人民大礼堂",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 城市地标 · 建筑拍照",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Great%20Hall%20of%20the%20People%2020240721.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Great%20Hall%20of%20the%20People%2020240721.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/The%20People%27s%20Great%20Hall%20of%20Chongqing.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Great%20Hall%20of%20the%20People%20interior%2020240721.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 86,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5632,
+      "lng": 106.5512
+    },
+    "tags": [
+      "建筑",
+      "拍照",
+      "文化"
+    ],
+    "reasonKeywords": [
+      "地标建筑",
+      "顺路博物馆",
+      "半日游"
+    ],
+    "reason": "建筑辨识度高，适合和三峡博物馆连成一条轻量文化路线。",
+    "details": {
+      "地址": "重庆市渝中区人民路173号",
+      "停车": "人民广场周边停车紧张，建议公共交通。",
+      "水电火": "城市公共建筑参观场景，不提供露营水电火。",
+      "收费": "外部参观通常免费，内部开放和活动以现场公告为准。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "三峡博物馆、曾家岩、上清寺周边补给方便。",
+      "充电桩": "周边商业停车场可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-26",
+    "updatedAt": "2026-06-26"
+  },
+  {
+    "id": "jiefangbei",
+    "name": "解放碑步行街",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 商圈地标 · 城市拍照",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CQ%20People%27s%20Liberation%20Monument.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/CQ%20People%27s%20Liberation%20Monument.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Jiefangbei%202020-08-13.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Jiefangbei%20CBD.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 94,
+    "crowd": "高",
+    "coords": {
+      "lat": 29.5571,
+      "lng": 106.5772
+    },
+    "tags": [
+      "商圈",
+      "地标",
+      "逛吃"
+    ],
+    "reasonKeywords": [
+      "地标打卡",
+      "餐饮密集",
+      "夜景"
+    ],
+    "reason": "重庆主城辨识度最高的步行街之一，适合饭后散步、拍照和串联洪崖洞。",
+    "details": {
+      "地址": "重庆市渝中区解放碑步行街",
+      "停车": "周边停车贵且拥堵，建议轨道交通临江门/较场口。",
+      "水电火": "商圈场景，不支持露营水电火。",
+      "收费": "公共街区通常免费，商场和餐饮消费另计。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "八一好吃街、国泰艺术中心、洪崖洞、来福士均可串联。",
+      "充电桩": "周边商场车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-26",
+    "updatedAt": "2026-06-26"
+  },
+  {
+    "id": "industrial-museum",
+    "name": "重庆工业博物馆",
+    "district": "大渡口",
+    "type": "室内",
+    "subtitle": "大渡口 · 工业遗存 · 亲子科普",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Industrial%20Museum%20DSC2202.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Industrial%20Museum%20DSC2202.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Industrial%20Museum%20DSC2239.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Industrial%20Museum%20DSC2263.jpg?width=1200"
+    ],
+    "phone": [
+      "023-61846111"
+    ],
+    "weatherText": "更新中",
+    "heat": 84,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.4815,
+      "lng": 106.4867
+    },
+    "tags": [
+      "博物馆",
+      "工业风",
+      "雨天"
+    ],
+    "reasonKeywords": [
+      "工业遗存",
+      "室内友好",
+      "拍照"
+    ],
+    "reason": "工业遗存和室内展陈结合，雨天也能逛，适合亲子科普和工业风拍照。",
+    "details": {
+      "地址": "重庆市大渡口区义渡路999号",
+      "停车": "馆区周边有停车配套，热门活动日建议提前到。",
+      "水电火": "博物馆场景，不提供露营水电火。",
+      "收费": "门票和预约规则以官方公告为准。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "可联动义渡古镇、大渡口滨江和周边餐饮。",
+      "充电桩": "大渡口商圈和停车场可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-26",
+    "updatedAt": "2026-06-26"
+  },
+  {
+    "id": "fengdu-ghost-city",
+    "name": "丰都名山景区",
+    "district": "丰都",
+    "type": "网红点",
+    "subtitle": "丰都 · 名山文化 · 周末远行",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fengdu%20Ghost%20City%20-101.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Fengdu%20Ghost%20City%20-101.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Gates%20of%20Hell%20at%20Fengdu%20Ghost%20City.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Fengdu%20Ghost%20City%20-13.JPG?width=1200"
+    ],
+    "phone": [
+      "023-70613323"
+    ],
+    "weatherText": "更新中",
+    "heat": 87,
+    "crowd": "中高",
+    "coords": {
+      "lat": 29.889,
+      "lng": 107.727
+    },
+    "tags": [
+      "名山",
+      "人文",
+      "远行"
+    ],
+    "reasonKeywords": [
+      "人文景观",
+      "山上视野",
+      "一日游"
+    ],
+    "reason": "适合想离开主城做一日远行的人文景区，山地步行量适中，晴阴天都可安排。",
+    "details": {
+      "地址": "重庆市丰都县名山街道名山景区",
+      "停车": "景区停车和换乘以现场公告为准，节假日建议早到。",
+      "水电火": "景区游览不提供露营水电火，山林区域严禁明火。",
+      "收费": "门票和索道等项目以景区当天公告为准。",
+      "夜宿": "不建议景区内夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "丰都城区餐饮住宿较完整，可安排一天往返或住一晚。",
+      "充电桩": "丰都城区补能更稳，出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-26",
+    "updatedAt": "2026-06-26"
   }
 ];

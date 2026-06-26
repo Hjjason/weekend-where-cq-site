@@ -10,7 +10,7 @@
     <title>周末去哪儿</title>
     <link rel="manifest" href="./manifest.webmanifest" />
     <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png" />
-    <link rel="stylesheet" href="./styles.css?v=20260623c" />
+    <link rel="stylesheet" href="./styles.css?v=20260626a" />
   </head>
   <body>
     <main class="app" aria-label="周末去哪儿 Demo">
@@ -126,13 +126,13 @@
     </aside>
 
     <div class="toast" id="toast">已收藏</div>
-    <script src="./data/weather.js?v=20260623c"></script>
-    <script src="./data/places.js?v=20260623c"></script>
-    <script src="./app.js?v=20260623c"></script>
+    <script src="./data/weather.js?v=20260626a"></script>
+    <script src="./data/places.js?v=20260626a"></script>
+    <script src="./app.js?v=20260626a"></script>
     <script>
       if ("serviceWorker" in navigator && location.protocol !== "file:") {
         const reloadFlag = "weekend-sw-reloaded";
-        navigator.serviceWorker.register("./sw.js?v=20260623c").then((registration) => {
+        navigator.serviceWorker.register("./sw.js?v=20260626a").then((registration) => {
           registration.update();
           registration.addEventListener("updatefound", () => {
             const worker = registration.installing;
