@@ -4110,5 +4110,240 @@
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
     "addedAt": "2026-06-26",
     "updatedAt": "2026-06-26"
+  },
+  {
+    "id": "qiansimen-bridge",
+    "name": "千厮门大桥观景点",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 桥景夜景 · 城市拍照",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%2C%20January%2025%2C%202024%20(9)%20(Qiansimen%20Bridge).jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%2C%20January%2025%2C%202024%20(9)%20(Qiansimen%20Bridge).jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Qiansimen%20Bridge%20(18084953558).jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Nightscape.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 90,
+    "crowd": "中高",
+    "coords": {
+      "lat": 29.5681,
+      "lng": 106.5827
+    },
+    "tags": [
+      "桥景",
+      "夜景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "夜景出片",
+      "串联洪崖洞",
+      "轻散步"
+    ],
+    "reason": "桥梁、江景和洪崖洞视角辨识度高，适合傍晚到夜间拍照散步。",
+    "details": {
+      "地址": "重庆市渝中区千厮门大桥及洪崖洞周边观景点",
+      "停车": "洪崖洞周边停车拥堵，建议轨道交通或步行串联。",
+      "水电火": "城市观景点不提供露营水电火。",
+      "收费": "公共观景通常免费，周边消费另计。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "洪崖洞、解放碑、朝天门、江北嘴可串联。",
+      "充电桩": "周边商圈车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-27",
+    "updatedAt": "2026-06-27"
+  },
+  {
+    "id": "shibati",
+    "name": "十八梯传统风貌区",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 老街坡巷 · 拍照逛吃",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibati%20%E5%8D%81%E5%85%AB%E6%A2%AF%202022.1.1.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibati%20%E5%8D%81%E5%85%AB%E6%A2%AF%202022.1.1.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%81%E5%85%AB%E6%A2%AF.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibati%20Gujing%20Square%20-%20Guanyinyan%20%E5%8D%81%E5%85%AB%E6%A2%AF%E5%8F%A4%E4%BA%95%E5%B9%BF%E5%9C%BA%E7%9C%8B%E5%90%91%E8%A7%82%E9%9F%B3%E5%B2%A9.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 89,
+    "crowd": "中高",
+    "coords": {
+      "lat": 29.5537,
+      "lng": 106.5742
+    },
+    "tags": [
+      "老街",
+      "坡巷",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "山城坡巷",
+      "夜景氛围",
+      "逛吃"
+    ],
+    "reason": "兼具老城坡巷和商业街区，适合下午到夜间拍照、逛吃和顺路去解放碑。",
+    "details": {
+      "地址": "重庆市渝中区十八梯传统风貌区",
+      "停车": "渝中老城停车紧张，建议轨道交通较场口后步行。",
+      "水电火": "商业街区不支持露营水电火。",
+      "收费": "公共街区通常免费，店铺消费另计。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "较场口、解放碑、山城巷、白象居可串联。",
+      "充电桩": "周边商场和公共车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-27",
+    "updatedAt": "2026-06-27"
+  },
+  {
+    "id": "guotai-arts-center",
+    "name": "国泰艺术中心",
+    "district": "渝中",
+    "type": "室内",
+    "subtitle": "渝中 · 艺术建筑 · 雨天拍照",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum%20Night.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum%20Night.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum%2020150313.jpg?width=1200"
+    ],
+    "phone": [
+      "023-63860589"
+    ],
+    "weatherText": "更新中",
+    "heat": 86,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.558,
+      "lng": 106.579
+    },
+    "tags": [
+      "艺术中心",
+      "建筑",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "建筑出片",
+      "雨天可去",
+      "解放碑旁"
+    ],
+    "reason": "建筑外观辨识度高，适合和解放碑、洪崖洞组成轻量城市拍照路线。",
+    "details": {
+      "地址": "重庆市渝中区临江路国泰艺术中心片区",
+      "停车": "解放碑周边车位紧张，建议轨道交通。",
+      "水电火": "室内/城市建筑场景，不提供露营水电火。",
+      "收费": "演出和展览收费以官方平台为准，外部拍照通常免费。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "解放碑、重庆美术馆、洪崖洞、八一好吃街均可步行串联。",
+      "充电桩": "解放碑商圈车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-27",
+    "updatedAt": "2026-06-27"
+  },
+  {
+    "id": "chongqing-art-museum",
+    "name": "重庆美术馆",
+    "district": "渝中",
+    "type": "室内",
+    "subtitle": "渝中 · 室内 · 艺术拍照",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum%20Night.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Art%20Museum%2020150313.jpg?width=1200"
+    ],
+    "phone": [
+      "023-63850955"
+    ],
+    "weatherText": "更新中",
+    "heat": 85,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5583,
+      "lng": 106.5782
+    },
+    "tags": [
+      "艺术馆",
+      "拍照",
+      "雨天"
+    ],
+    "reasonKeywords": [
+      "建筑出片",
+      "雨天备选",
+      "顺路解放碑"
+    ],
+    "reason": "建筑外观和展览空间都适合拍照，雨天可和解放碑、国泰艺术中心串联。",
+    "details": {
+      "地址": "重庆市渝中区临江路1号",
+      "停车": "解放碑片区停车紧张，建议轨道交通或商场车库。",
+      "水电火": "艺术馆参观场景，不提供露营水电火。",
+      "收费": "开放、预约和特展收费以官方公告为准。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "解放碑、国泰艺术中心、洪崖洞、八一好吃街均很近。",
+      "充电桩": "解放碑商圈车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-27",
+    "updatedAt": "2026-06-27"
+  },
+  {
+    "id": "jialing-river-view",
+    "name": "嘉陵江城市观景线",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 江景 · 城市散步",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20center.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20center.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Nightscape.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20City%20Chongqing%20from%20Jiangbeizui.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 83,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.566,
+      "lng": 106.565
+    },
+    "tags": [
+      "江景",
+      "夜景",
+      "散步"
+    ],
+    "reasonKeywords": [
+      "城市天际线",
+      "夜景",
+      "顺路"
+    ],
+    "reason": "适合把嘉陵江沿线观景点串成一条轻松散步线，夜间城市层次更明显。",
+    "details": {
+      "地址": "重庆市渝中区嘉陵江沿线观景点",
+      "停车": "沿线停车分散，建议轨道交通加步行。",
+      "水电火": "城市观景线不提供露营水电火。",
+      "收费": "公共观景通常免费。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "可联动洪崖洞、千厮门、江北嘴和解放碑。",
+      "充电桩": "周边商场和公共车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-27",
+    "updatedAt": "2026-06-27"
   }
 ]
