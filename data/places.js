@@ -3837,7 +3837,9 @@ window.WEEKEND_PLACES = [
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Changjiang_Cableway.jpg?width=1200",
     "photos": [
       "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing_Changjiang_Cableway.jpg?width=1200",
-      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E9%95%BF%E6%B1%9F%E7%B4%A2%E9%81%93_-_Chongqing_Yangtze_River_Cableway_-_2015.04_-_panoramio.jpg?width=1200"
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E9%95%BF%E6%B1%9F%E7%B4%A2%E9%81%93_-_Chongqing_Yangtze_River_Cableway_-_2015.04_-_panoramio.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Changjiang%20Cableway%2020180430%20114902.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E9%95%BF%E6%B1%9F%E7%B4%A2%E9%81%93%20-%20Chongqing%20Yangtze%20River%20Cableway%20-%202015.04%20-%20panoramio.jpg?width=1200"
     ],
     "phone": [
       "023-68816888"
@@ -3870,7 +3872,7 @@ window.WEEKEND_PLACES = [
       "周边": "小什字、白象居、湖广会馆和南滨路可串联。",
       "充电桩": "周边商场车库可查询充电桩。"
     },
-    "sourceNote": "公开线索来自长江索道公开信息、地图公开 POI 与 Wikimedia Commons 开放授权图片；旺季排队时间需出发前复核。",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
     "addedAt": "2026-06-23",
     "updatedAt": "2026-06-23"
   },
