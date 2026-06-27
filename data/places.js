@@ -4155,8 +4155,8 @@ window.WEEKEND_PLACES = [
       "充电桩": "周边商圈车库可查询充电桩。"
     },
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
-    "addedAt": "2026-06-27",
-    "updatedAt": "2026-06-27"
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
   },
   {
     "id": "shibati",
@@ -4202,8 +4202,8 @@ window.WEEKEND_PLACES = [
       "充电桩": "周边商场和公共车库可查询充电桩。"
     },
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
-    "addedAt": "2026-06-27",
-    "updatedAt": "2026-06-27"
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
   },
   {
     "id": "guotai-arts-center",
@@ -4249,8 +4249,8 @@ window.WEEKEND_PLACES = [
       "充电桩": "解放碑商圈车库可查询充电桩。"
     },
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
-    "addedAt": "2026-06-27",
-    "updatedAt": "2026-06-27"
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
   },
   {
     "id": "chongqing-art-museum",
@@ -4296,8 +4296,8 @@ window.WEEKEND_PLACES = [
       "充电桩": "解放碑商圈车库可查询充电桩。"
     },
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
-    "addedAt": "2026-06-27",
-    "updatedAt": "2026-06-27"
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
   },
   {
     "id": "jialing-river-view",
@@ -4343,7 +4343,7 @@ window.WEEKEND_PLACES = [
       "充电桩": "周边商场和公共车库可查询充电桩。"
     },
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
-    "addedAt": "2026-06-27",
-    "updatedAt": "2026-06-27"
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
   }
 ];
