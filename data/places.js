@@ -4737,5 +4737,143 @@ window.WEEKEND_PLACES = [
     "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20Rock%20Carvings%20-%20Beishan%20%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%8C%97%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C%20Chongqing%2C%202023%20%2853669206842%29.jpg?width=1200",
     "addedAt": "2026-06-28",
     "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "beicang-culture-park",
+    "name": "北仓文创街区深度逛",
+    "district": "两江新区",
+    "type": "网红点",
+    "subtitle": "两江新区 · 文创街区 · 咖啡拍照",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beicang%20Culture%20Park.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Beicang%20Culture%20Park.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Beicang%20Culture%20Park%20street%20view.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 84,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.58,
+      "lng": 106.532
+    },
+    "tags": [
+      "文创",
+      "咖啡",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "文创小店",
+      "咖啡密集",
+      "轻松路线"
+    ],
+    "reason": "适合不想走太远、想喝咖啡拍照的轻量路线，可和观音桥商圈连在一起。",
+    "details": {
+      "地址": "重庆市江北区北仓文创街区",
+      "停车": "周边车位有限，建议观音桥商圈停车后步行。",
+      "水电火": "街区不提供露营水电火。",
+      "收费": "公共街区通常免费，店铺消费另计。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "观音桥、九街、北滨路可串联。",
+      "充电桩": "观音桥商圈车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "tongyuanju-station-view",
+    "name": "铜元局轻轨观景点",
+    "district": "南岸",
+    "type": "网红点",
+    "subtitle": "南岸 · 轨道桥景 · 城市拍照",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20First%20Chongqing%20Yangtze%20River%20Bridge.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/The%20First%20Chongqing%20Yangtze%20River%20Bridge.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Nanjimen%20Yangtze%20River%20Bridge%20under%20construction%20in%20Chongqing%20at%20sunset.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 81,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.533,
+      "lng": 106.558
+    },
+    "tags": [
+      "轻轨",
+      "桥景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "轨道城市感",
+      "桥景",
+      "短停留"
+    ],
+    "reason": "适合喜欢重庆轨道和桥梁城市感的短停留拍照点，建议和南滨路串联。",
+    "details": {
+      "地址": "重庆市南岸区铜元局及菜园坝大桥周边",
+      "停车": "周边停车不稳定，建议轨道交通。",
+      "水电火": "城市观景点不提供露营水电火。",
+      "收费": "公共观景通常免费。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "可联动南滨路、海棠溪、弹子石方向。",
+      "充电桩": "周边商圈车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "huangjueya-old-street",
+    "name": "黄桷垭老街",
+    "district": "南岸",
+    "type": "网红点",
+    "subtitle": "南岸 · 老街 · 南山轻逛",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SkylineOfChongqing.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/SkylineOfChongqing.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20center.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 80,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.52,
+      "lng": 106.606
+    },
+    "tags": [
+      "老街",
+      "南山",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "南山顺路",
+      "老街慢逛",
+      "咖啡小店"
+    ],
+    "reason": "适合去南山时顺路慢逛，作为一棵树、老君洞或南山咖啡线的补充点。",
+    "details": {
+      "地址": "重庆市南岸区黄桷垭老街片区",
+      "停车": "老街周边道路较窄，建议错峰或公共交通。",
+      "水电火": "老街街区不提供露营水电火。",
+      "收费": "公共街区通常免费，店铺消费另计。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "南山一棵树、老君洞、南山植物园周边可串联。",
+      "充电桩": "南岸城区和南山沿线补能需提前查询。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
   }
 ];
