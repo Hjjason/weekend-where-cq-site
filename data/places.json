@@ -3363,9 +3363,16 @@
       "适合自驾"
     ],
     "reason": "更适合安排整日或周末过夜自驾，瀑布和森林景观完整，夏季体感比主城更舒服。",
-    "sourceNote": "公开线索来自重庆市人民政府 2026-06-04 景区介绍及高德地图公开 POI；暂无已核验授权照片，继续使用本地占位图。步道开放和分景点通行情况需出发前复核。",
-    "image": "",
-    "photos": [],
+    "sourceNote": "地点信息参考景区公开信息；图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simian%20Mountain%20--%20Boats%20in%20the%20lake.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Simian%20Mountain%20--%20Boats%20in%20the%20lake.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Simian%20Mountain%20--%20lake%20secenry%20on%20a%20boat.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Simian%20Mountain%20--%20the%20dam.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Simian%20Mountain%20--%20the%20fall%20after%20rain.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Great%20Red%20Sea%20in%20Simian%20Mountain%2CJiangjin%2CChongqing.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/The%20waterfall%20in%20Simian%20Mountain%2CJiangjin%2CChongqing.jpg?width=1200"
+    ],
     "phone": "023-47666888",
     "weatherText": "多云，24°C",
     "hourlyWeather": [],
@@ -3380,7 +3387,8 @@
       "汽车露营": "非营地场景不建议汽车露营，需确认指定营地后再安排。",
       "周边": "可串联望乡台、龙潭湖等核心景点，山里补给和信号稳定性建议提前确认。",
       "充电桩": "江津城区和主要服务节点可先补能，景区内充电资源需提前核实。"
-    }
+    },
+    "updatedAt": "2026-06-28"
   },
   {
     "id": "fairy-mountain",
@@ -4343,6 +4351,390 @@
       "充电桩": "周边商场和公共车库可查询充电桩。"
     },
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "baiheliang",
+    "name": "白鹤梁水下博物馆",
+    "district": "涪陵",
+    "type": "室内",
+    "subtitle": "涪陵 · 室内 · 长江题刻",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baiheliang%20Underwater%20Museum.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Baiheliang%20Underwater%20Museum.JPG?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/20250522%20Baiheliang%20(154033).jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E7%99%BD%E9%B9%A4%E6%A2%81%E7%9F%B3%E9%B1%BC.jpg?width=1200"
+    ],
+    "phone": [
+      "023-72121211"
+    ],
+    "weatherText": "更新中",
+    "heat": 83,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.711,
+      "lng": 107.392
+    },
+    "tags": [
+      "博物馆",
+      "雨天",
+      "人文"
+    ],
+    "reasonKeywords": [
+      "水下博物馆",
+      "长江文化",
+      "室内"
+    ],
+    "reason": "少见的水下题刻博物馆，适合雨天或想做文化路线的一日短途。",
+    "details": {
+      "地址": "重庆市涪陵区滨江大道二段185号",
+      "停车": "滨江片区有停车配套，节假日建议预留入馆时间。",
+      "水电火": "博物馆场景，不提供露营水电火。",
+      "收费": "门票和开放时间以官方公告为准。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "涪陵滨江、城区餐饮和白鹤森林公园可串联。",
+      "充电桩": "涪陵城区和商场停车场可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "dongshuimen-bridge",
+    "name": "东水门大桥观景点",
+    "district": "南岸",
+    "type": "网红点",
+    "subtitle": "南岸 · 桥景江景 · 老街串联",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dongshuimen%20Bridge%20Chongqing.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dongshuimen%20Bridge%20Chongqing.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Dongshuimen%20bridge%20from%20Baixiang%20Ju%20Chongqing.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dongshuimen%20Yangtze%20River%20Bridge%20with%20Huguang%20Huiguan.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 86,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5538,
+      "lng": 106.5893
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "江景视角",
+      "串联老街",
+      "傍晚适合"
+    ],
+    "reason": "适合从龙门浩、下浩或湖广会馆一带串联江景，傍晚光线更舒服。",
+    "details": {
+      "地址": "重庆市南岸区东水门大桥及龙门浩周边观景点",
+      "停车": "桥头和老街周边车位有限，建议轨道交通上新街或小什字后步行。",
+      "水电火": "城市观景点不提供露营水电火。",
+      "收费": "公共观景通常免费，周边消费另计。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "龙门浩老街、下浩里、南滨路和湖广会馆可串联。",
+      "充电桩": "南滨路和解放碑周边车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "hongen-pavilion",
+    "name": "鸿恩阁夜景点",
+    "district": "两江新区",
+    "type": "网红点",
+    "subtitle": "两江新区 · 夜景 · 公园观景",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%27en%20Pavillion%20at%20night%2C%20Jiangbei%2C%20Chongqing%20on%20July%202020.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%27en%20Pavillion%20at%20night%2C%20Jiangbei%2C%20Chongqing%20on%20July%202020.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%27en%20Pavillion%2C%20Jiangbei%2C%20Chongqing%20on%20July%202020.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Hong%27en%20Pavillion%20at%20night%2C%20Jiangbei%2C%20Chongqing%20on%20July%202020-cropped.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 87,
+    "crowd": "中高",
+    "coords": {
+      "lat": 29.5868,
+      "lng": 106.5355
+    },
+    "tags": [
+      "夜景",
+      "公园",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "夜景视野",
+      "公园散步",
+      "主城轻量"
+    ],
+    "reason": "适合傍晚后上山看城市夜景，也能和鸿恩寺森林公园散步路线合并。",
+    "details": {
+      "地址": "重庆市江北区鸿恩寺森林公园鸿恩阁片区",
+      "停车": "公园停车位节假日紧张，建议错峰或公共交通换乘。",
+      "水电火": "公园观景点不提供露营水电火，林区严禁明火。",
+      "收费": "公园公共区域通常免费，以现场公告为准。",
+      "夜宿": "不建议夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "观音桥、北滨路和江北商圈补给方便。",
+      "充电桩": "江北商圈车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "nanbin-riverwalk",
+    "name": "南滨路江景步道",
+    "district": "南岸",
+    "type": "网红点",
+    "subtitle": "南岸 · 江景步道 · 夜景散步",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%B8%82%E5%8D%97%E5%B2%B8%E5%8C%BA%E5%8D%97%E6%BB%A8%E8%B7%AF%E5%BB%BA%E7%AD%91%E3%80%81%E8%B6%B8%E8%88%B9%E5%92%8C%E9%95%BF%E6%B1%9F.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%B8%82%E5%8D%97%E5%B2%B8%E5%8C%BA%E5%8D%97%E6%BB%A8%E8%B7%AF%E5%BB%BA%E7%AD%91%E3%80%81%E8%B6%B8%E8%88%B9%E5%92%8C%E9%95%BF%E6%B1%9F.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%B8%82%E5%8D%97%E5%B2%B8%E5%8C%BA%E5%8D%97%E6%BB%A8%E8%B7%AF%E5%BB%BA%E7%AD%91%E5%92%8C%E8%B6%B8%E8%88%B9.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86-%E6%9C%9D%E5%A4%A9%E9%97%A8%E4%B8%8A%E6%9C%9B%E5%8D%97%E5%B2%B8%20-%20panoramio.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 88,
+    "crowd": "中高",
+    "coords": {
+      "lat": 29.549,
+      "lng": 106.588
+    },
+    "tags": [
+      "江景",
+      "夜景",
+      "散步"
+    ],
+    "reasonKeywords": [
+      "江景开阔",
+      "餐饮多",
+      "夜景"
+    ],
+    "reason": "适合傍晚到夜间散步，江景、桥景和沿线餐饮配套都比较稳定。",
+    "details": {
+      "地址": "重庆市南岸区南滨路沿线",
+      "停车": "沿线停车点较多但周末热门时段紧张，建议错峰。",
+      "水电火": "城市步道不提供露营水电火。",
+      "收费": "公共步道通常免费，餐饮消费另计。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "长嘉汇、龙门浩、下浩里、弹子石老街可串联。",
+      "充电桩": "南滨路商圈和停车场可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "nanjimen-bridge",
+    "name": "南纪门长江大桥观景点",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 桥景 · 城市摄影",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nanjimen%20Yangtze%20River%20Bridge%20under%20construction%20in%20Chongqing%20at%20sunset.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Nanjimen%20Yangtze%20River%20Bridge%20under%20construction%20in%20Chongqing%20at%20sunset.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/The%20First%20Chongqing%20Yangtze%20River%20Bridge.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Raffles%20City%20Chongqing%20from%20Yangtze%20River(cropped).jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 82,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.544,
+      "lng": 106.573
+    },
+    "tags": [
+      "桥景",
+      "日落",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "日落桥景",
+      "轻散步",
+      "江景"
+    ],
+    "reason": "适合想找桥景和江面视角的城市摄影路线，傍晚光线更舒服。",
+    "details": {
+      "地址": "重庆市渝中区南纪门长江大桥周边观景点",
+      "停车": "桥区周边停车不稳定，建议公共交通加步行。",
+      "水电火": "城市观景点不提供露营水电火。",
+      "收费": "公共观景通常免费。",
+      "夜宿": "不适合夜宿。",
+      "汽车露营": "不适用。",
+      "周边": "可联动十八梯、山城巷、储奇门和南滨路。",
+      "充电桩": "渝中和南岸周边车库可查询充电桩。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "baidicheng-qutang-gorge",
+    "name": "白帝城·瞿塘峡景区",
+    "district": "奉节",
+    "type": "徒步",
+    "subtitle": "奉节 · 5A · 夔门三峡",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Bai%20di%20cheng.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Qutang%20Gorge%20%2843588474294%29.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Qutang%20Gorge%202016.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Qutang%20Gorge%20on%20Changjiang.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Qutang%20Gorge%20%E7%9E%BF%E5%A1%98%E5%B3%BD%20-%20panoramio.jpg?width=1200"
+    ],
+    "phone": [
+      "023-85991001"
+    ],
+    "weatherText": "更新中",
+    "heat": 94,
+    "crowd": "中高",
+    "coords": {
+      "lat": 31.04525,
+      "lng": 109.571909
+    },
+    "tags": [
+      "5A",
+      "三峡",
+      "徒步"
+    ],
+    "reasonKeywords": [
+      "夔门",
+      "5A",
+      "山水大片"
+    ],
+    "reason": "夔门和白帝城辨识度极高，适合安排三峡山水、人文和轻徒步的一日游。",
+    "details": {
+      "地址": "重庆市奉节县夔门街道办事处瞿塘峡社区白帝城·瞿塘峡景区",
+      "停车": "景区游客中心及正门周边有停车配套，节假日建议早到并预留换乘时间。",
+      "水电火": "景区游览场景，不提供露营水电火，严禁明火；餐饮补给以游客中心和周边商户为主。",
+      "收费": "门票、观光车、索道或船游等以景区官方当日公告为准。",
+      "夜宿": "景区内不建议夜宿，周边可选择酒店或民宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "游客中心、奉节城区、餐饮住宿和三峡游线配套较完整。",
+      "充电桩": "周边停车场或城区充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "地点信息参考重庆市人民政府、奉节县人民政府和景区公开信息；图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bai%20di%20cheng.jpg?width=1200",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "shibaozhai",
+    "name": "忠县石宝寨",
+    "district": "忠县",
+    "type": "网红点",
+    "subtitle": "忠县 · 4A · 江上明珠",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibaozhai%2020150613.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibaozhai%202016%201.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibaozhai%202016%202.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibaozhai%202016%204.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibaozhai%202017.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 86,
+    "crowd": "中等",
+    "coords": {
+      "lat": 30.421,
+      "lng": 108.199
+    },
+    "tags": [
+      "古建",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "江上明珠",
+      "古建",
+      "拍照"
+    ],
+    "reason": "临江孤峰和十二层木质楼阁很有辨识度，适合三峡沿线旅行或区县周末游。",
+    "details": {
+      "地址": "重庆市忠县石宝镇长江北岸石宝寨景区",
+      "停车": "景区周边有游客停车点，三峡游船靠岸游览时需按船方节奏安排。",
+      "水电火": "景区游览场景，不提供露营水电火，严禁明火；餐饮补给以游客中心和周边商户为主。",
+      "收费": "景区门票和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "景区内不建议夜宿，周边可选择酒店或民宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "石宝镇、忠县城区和三峡游船线路可提供餐饮住宿补给。",
+      "充电桩": "周边停车场或城区充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "地点信息参考忠县人民政府、重庆市文化旅游委公开信息；图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibaozhai%2020150613.jpg?width=1200",
+    "addedAt": "2026-06-28",
+    "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "dazu-beishan-rock-carvings",
+    "name": "大足石刻北山石刻",
+    "district": "大足",
+    "type": "网红点",
+    "subtitle": "大足 · 石窟艺术 · 世界遗产线",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20Rock%20Carvings%20-%20Beishan%20%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%8C%97%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C%20Chongqing%2C%202023%20%2853669206842%29.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20Rock%20Carvings%20-%20Beishan%20%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%8C%97%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C%20Chongqing%2C%202023%20%2853670087241%29.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20Rock%20Carvings%20-%20Beishan%20%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%8C%97%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C%20Chongqing%2C%202023%20%2853670299298%29.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20Rock%20Carvings%20-%20Beishan%20%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%8C%97%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C%20Chongqing%2C%202023%20%2853670429034%29.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20Rock%20Carvings%20-%20Beishan%20%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%8C%97%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C%20Chongqing%2C%202023%20%2853670438194%29.jpg?width=1200"
+    ],
+    "phone": [
+      "023-43722163",
+      "023-43734666",
+      "023-43722268"
+    ],
+    "weatherText": "更新中",
+    "heat": 87,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.712949,
+      "lng": 105.710048
+    },
+    "tags": [
+      "世界遗产",
+      "石刻",
+      "人文"
+    ],
+    "reasonKeywords": [
+      "石窟",
+      "人文",
+      "避晒"
+    ],
+    "reason": "北山石刻和宝顶山形成互补，适合想深度看大足石刻的人文路线。",
+    "details": {
+      "地址": "重庆市大足区大足石刻景区北山石刻",
+      "停车": "景区周边有停车点，建议与宝顶山石刻错峰组合游览。",
+      "水电火": "景区游览场景，不提供露营水电火，严禁明火；餐饮补给以游客中心和周边商户为主。",
+      "收费": "门票、联票和讲解费用以大足石刻官方票务为准。",
+      "夜宿": "景区内不建议夜宿，周边可选择酒店或民宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "大足城区和景区游客中心周边餐饮住宿较方便。",
+      "充电桩": "周边停车场或城区充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "地点信息参考大足石刻研究院、重庆市人民政府及地图公开 POI；图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20Rock%20Carvings%20-%20Beishan%20%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB-%E5%8C%97%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F%2C%20Chongqing%2C%202023%20%2853669206842%29.jpg?width=1200",
     "addedAt": "2026-06-28",
     "updatedAt": "2026-06-28"
   }
