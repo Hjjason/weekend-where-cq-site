@@ -4875,5 +4875,232 @@ window.WEEKEND_PLACES = [
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；平台热度仅作选题线索。",
     "addedAt": "2026-06-28",
     "updatedAt": "2026-06-28"
+  },
+  {
+    "id": "huanghuayuan-bridge-view",
+    "name": "黄花园嘉陵江大桥观景点",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 嘉陵江 · 城市桥景",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Huanghuayuan%20Bridge%20in%20Chongqing%20City.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 82,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5661,
+      "lng": 106.5585
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "嘉陵江",
+      "桥景",
+      "顺路"
+    ],
+    "reason": "黄花园大桥连接渝中和江北，适合串联两江沿岸城市散步。",
+    "details": {
+      "地址": "重庆市渝中区黄花园嘉陵江大桥周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Huanghuayuan%20Bridge%20in%20Chongqing%20City.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-01",
+    "updatedAt": "2026-07-01"
+  },
+  {
+    "id": "shibanpo-bridge-view",
+    "name": "石板坡长江大桥观景点",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 长江桥景 · 城市摄影",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibanpo%20Bridge%20in%20Chongqing.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 80,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5458,
+      "lng": 106.5568
+    },
+    "tags": [
+      "桥景",
+      "长江",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "长江",
+      "桥景",
+      "城市感"
+    ],
+    "reason": "石板坡长江大桥视角适合看渝中半岛和长江城市界面。",
+    "details": {
+      "地址": "重庆市渝中区石板坡长江大桥周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibanpo%20Bridge%20in%20Chongqing.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-01",
+    "updatedAt": "2026-07-01"
+  },
+  {
+    "id": "yuao-bridge-view",
+    "name": "渝澳嘉陵江大桥观景点",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 嘉陵江 · 轻量打卡",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Yu%27ao%20Bridge%20in%20Chongqing%20City.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 79,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5579,
+      "lng": 106.5339
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "嘉陵江",
+      "桥景",
+      "轻打卡"
+    ],
+    "reason": "渝澳大桥一带适合顺路看嘉陵江和城市立交景观。",
+    "details": {
+      "地址": "重庆市渝中区渝澳嘉陵江大桥周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yu%27ao%20Bridge%20in%20Chongqing%20City.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-01",
+    "updatedAt": "2026-07-01"
+  },
+  {
+    "id": "niujiaotuo-station-view",
+    "name": "牛角沱轻轨站观景点",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 轨道交通 · 城市拍照",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Niujiaotuo%20Subway%20Station%20Chongqing.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 77,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.558,
+      "lng": 106.538
+    },
+    "tags": [
+      "轻轨",
+      "城市",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "轻轨",
+      "城市感",
+      "顺路"
+    ],
+    "reason": "牛角沱一带能看到重庆轨道交通和嘉陵江城市界面，适合顺路轻打卡。",
+    "details": {
+      "地址": "重庆市渝中区牛角沱轨道站周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Niujiaotuo%20Subway%20Station%20Chongqing.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-01",
+    "updatedAt": "2026-07-01"
+  },
+  {
+    "id": "chongqing-station-old",
+    "name": "重庆站老站房打卡点",
+    "district": "渝中",
+    "type": "网红点",
+    "subtitle": "渝中 · 菜园坝 · 城市记忆",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20station.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Railway%20Station%202381.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Railway%20Station%202371.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 76,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.547,
+      "lng": 106.547
+    },
+    "tags": [
+      "城市记忆",
+      "拍照",
+      "交通"
+    ],
+    "reasonKeywords": [
+      "老站",
+      "城市感",
+      "顺路"
+    ],
+    "reason": "菜园坝重庆站承载老重庆交通记忆，适合城市摄影和顺路打卡。",
+    "details": {
+      "地址": "重庆市渝中区菜园坝重庆站周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20station.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-01",
+    "updatedAt": "2026-07-01"
   }
 ];
