@@ -1505,6 +1505,51 @@
     }
   },
   {
+    "id": "cmnh",
+    "name": "重庆自然博物馆",
+    "district": "北碚",
+    "type": "室内",
+    "subtitle": "北碚 · 室内 · 亲子科普",
+    "heat": "90",
+    "crowd": "中高",
+    "coords": {
+      "lat": 29.817939,
+      "lng": 106.40692
+    },
+    "tags": [
+      "雨天备选",
+      "遛娃",
+      "科普"
+    ],
+    "reasonKeywords": [
+      "恐龙展厅",
+      "免费馆",
+      "空调稳定"
+    ],
+    "reason": "雨天和高温天都很稳，馆内体量够大，适合半天到大半天亲子科普行程。",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Natural%20History%20Museum.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Natural%20History%20Museum.jpg?width=1200"
+    ],
+    "phone": "023-63521630",
+    "weatherText": "多云，25°C",
+    "hourlyWeather": [],
+    "distance": "",
+    "weather": "多云，25°C",
+    "details": {
+      "地址": "重庆市北碚区金华路398号",
+      "停车": "周末亲子客流较高，自驾建议早到，周边停车资源以现场调度为准。",
+      "水电火": "博物馆参观空间不提供露营水电火；不支持明火。",
+      "收费": "常设参观以官方预约和现场公告为准，临展或活动如有收费以当日信息为准。",
+      "夜宿": "不适合夜宿露营。",
+      "汽车露营": "不适用。",
+      "周边": "可联动缙云山、金刚碑片区安排一日路线，馆内周边餐饮以景区和城区补给为主。",
+      "充电桩": "北碚城区及景区周边停车场可查询公共充电桩。"
+    },
+    "updatedAt": "2026-07-01"
+  },
+  {
     "id": "simianshan",
     "name": "四面山景区",
     "district": "江津",
@@ -3098,5 +3143,230 @@
     "weatherText": "更新中",
     "addedAt": "2026-07-01",
     "updatedAt": "2026-07-01"
+  },
+  {
+    "id": "chaotianmen-bridge-view",
+    "name": "朝天门长江大桥观景点",
+    "district": "两江新区",
+    "type": "网红点",
+    "subtitle": "两江新区 · 桥景 · 江岸拍照",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chaotianmen%20Bridge-1.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 86,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5836,
+      "lng": 106.5955
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "江景",
+      "桥景",
+      "夜景"
+    ],
+    "reason": "朝天门大桥线条辨识度高，适合江岸散步和夜景拍照。",
+    "details": {
+      "地址": "重庆市江北区/南岸区朝天门长江大桥周边观景步道",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chaotianmen%20Bridge-1.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-02",
+    "updatedAt": "2026-07-02"
+  },
+  {
+    "id": "central-park-west-station",
+    "name": "中央公园西站打卡点",
+    "district": "两江新区",
+    "type": "网红点",
+    "subtitle": "两江新区 · 中央公园 · 轨道打卡",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Platform%20of%20L10%20%28S%29%2C%20Central%20Park%20West%20Station%2C%20Chongqing%20Rail%20Transit%2020250425.jpg?width=1200"
+    ],
+    "coords": {
+      "lat": 29.726214,
+      "lng": 106.584992
+    },
+    "heat": 72,
+    "tags": [
+      "中央公园",
+      "轨道",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "中央公园",
+      "轨道",
+      "顺路"
+    ],
+    "reason": "适合与重庆中央公园一起顺路安排，作为轻量交通/城市打卡点。",
+    "details": {
+      "地址": "重庆市两江新区中央公园西站周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/校园/交通打卡场景，不支持露营水电火，严禁明火。",
+      "收费": "开放状态和收费以现场及官方/管理方发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Platform%20of%20L10%20%28S%29%2C%20Central%20Park%20West%20Station%2C%20Chongqing%20Rail%20Transit%2020250425.jpg?width=1200",
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "crowd": "适中",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-07-02",
+    "updatedAt": "2026-07-02"
+  },
+  {
+    "id": "chongqing-east-station-view",
+    "name": "重庆东站建筑打卡点",
+    "district": "南岸",
+    "type": "网红点",
+    "subtitle": "南岸 · 新站建筑 · 城市更新",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/September%202025%20at%20Chongqing%20East%20Railway%20Station%2002.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 73,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.486,
+      "lng": 106.653
+    },
+    "tags": [
+      "建筑",
+      "交通",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "新地标",
+      "建筑",
+      "顺路"
+    ],
+    "reason": "重庆东站是近年城市交通新地标，适合建筑外观打卡，出行需以现场开放范围为准。",
+    "details": {
+      "地址": "重庆市南岸区重庆东站周边",
+      "停车": "站区停车和进出规则以现场交通组织为准。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "站区开放范围以现场管理为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "茶园、南岸区周边配套可用地图复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/September%202025%20at%20Chongqing%20East%20Railway%20Station%2002.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-02",
+    "updatedAt": "2026-07-02"
+  },
+  {
+    "id": "geleshan-martyrs-mausoleum",
+    "name": "歌乐山烈士陵园",
+    "district": "沙坪坝",
+    "type": "徒步",
+    "subtitle": "沙坪坝 · 歌乐山 · 人文步道",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Geleshan%20Martyr%27s%20Mausoleum.jpg?width=1200"
+    ],
+    "phone": [
+      "023-65312300"
+    ],
+    "heat": 82,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.583,
+      "lng": 106.44
+    },
+    "tags": [
+      "人文",
+      "步道",
+      "红岩"
+    ],
+    "reasonKeywords": [
+      "人文",
+      "步道",
+      "红岩"
+    ],
+    "reason": "适合把歌乐山步道、人文参观和半日轻徒步组合起来。",
+    "details": {
+      "地址": "重庆市沙坪坝区歌乐山烈士陵园",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Geleshan%20Martyr%27s%20Mausoleum.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-02",
+    "updatedAt": "2026-07-02"
+  },
+  {
+    "id": "shimen-bridge-view",
+    "name": "石门嘉陵江大桥观景点",
+    "district": "沙坪坝",
+    "type": "网红点",
+    "subtitle": "沙坪坝 · 嘉陵江 · 桥景拍照",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shimen%20Jialingjiang%20Bridge%20in%20Chongqing%20City.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 78,
+    "crowd": "中等",
+    "coords": {
+      "lat": 29.5708,
+      "lng": 106.4819
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "嘉陵江",
+      "桥景",
+      "错峰"
+    ],
+    "reason": "石门大桥适合沙坪坝、江北之间的城市江景拍照和短途散步。",
+    "details": {
+      "地址": "重庆市沙坪坝区/江北区石门嘉陵江大桥周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shimen%20Jialingjiang%20Bridge%20in%20Chongqing%20City.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-02",
+    "updatedAt": "2026-07-02"
   }
 ]
