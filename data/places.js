@@ -3368,5 +3368,233 @@ window.WEEKEND_PLACES = [
     "weatherText": "更新中",
     "addedAt": "2026-07-02",
     "updatedAt": "2026-07-02"
+  },
+  {
+    "id": "chongqing-university-democracy-lake",
+    "name": "重庆大学民主湖",
+    "district": "沙坪坝",
+    "type": "网红点",
+    "subtitle": "沙坪坝 · 校园湖景 · 安静散步",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E6%B0%91%E4%B8%BB%E6%B9%96%20Democracy%20Lake%20in%20Chongqing%20University.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20University%20Main%20Entrance.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Gate%20of%20Chongqing%20University%2020150812%20184653.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 75,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.566,
+      "lng": 106.468
+    },
+    "tags": [
+      "校园",
+      "湖景",
+      "散步"
+    ],
+    "reasonKeywords": [
+      "校园",
+      "湖景",
+      "安静"
+    ],
+    "reason": "重大校园湖景适合安静散步和拍照，开放情况需以学校现场管理为准。",
+    "details": {
+      "地址": "重庆市沙坪坝区重庆大学A区民主湖周边",
+      "停车": "校内停车和入校规则以学校现场管理为准，建议公共交通。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "校园开放状态以学校现场管理为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "沙坪坝商圈、重大周边餐饮和轨道交通较方便。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E6%B0%91%E4%B8%BB%E6%B9%96%20Democracy%20Lake%20in%20Chongqing%20University.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-03",
+    "updatedAt": "2026-07-03"
+  },
+  {
+    "id": "sichuan-international-studies-library",
+    "name": "四川外国语大学图书馆",
+    "district": "沙坪坝",
+    "type": "网红点",
+    "subtitle": "沙坪坝 · 校园 · 山城书香",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%9B%9B%E5%B7%9D%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%28Library%20of%20the%20Sichuan%20International%20Studies%20University%29.jpg?width=1200"
+    ],
+    "coords": {
+      "lat": 29.573,
+      "lng": 106.441
+    },
+    "heat": 70,
+    "tags": [
+      "校园",
+      "图书馆",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "校园",
+      "书香",
+      "顺路"
+    ],
+    "reason": "川外歌乐山片区有山地校园氛围，适合与歌乐山线路顺路安排。",
+    "details": {
+      "地址": "重庆市沙坪坝区四川外国语大学图书馆周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/校园/交通打卡场景，不支持露营水电火，严禁明火。",
+      "收费": "开放状态和收费以现场及官方/管理方发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%9B%9B%E5%B7%9D%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%28Library%20of%20the%20Sichuan%20International%20Studies%20University%29.jpg?width=1200",
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "crowd": "适中",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-07-03",
+    "updatedAt": "2026-07-03"
+  },
+  {
+    "id": "cq-normal-university-library",
+    "name": "重庆师范大学图书馆",
+    "district": "沙坪坝",
+    "type": "网红点",
+    "subtitle": "沙坪坝 · 校园建筑 · 安静拍照",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Normal%20University%20Library.jpg?width=1200",
+      "https://commons.wikimedia.org/wiki/Special:FilePath/THE%20LIBRARY%20OF%20CHONGQING%20NORMAL%20UNIVERSITY.jpg?width=1200"
+    ],
+    "coords": {
+      "lat": 29.615775,
+      "lng": 106.296622
+    },
+    "heat": 70,
+    "tags": [
+      "校园",
+      "建筑",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "校园",
+      "建筑",
+      "安静"
+    ],
+    "reason": "校园图书馆建筑适合安静散步和轻量拍照，开放情况需以学校现场管理为准。",
+    "details": {
+      "地址": "重庆市沙坪坝区重庆师范大学图书馆周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/校园/交通打卡场景，不支持露营水电火，严禁明火。",
+      "收费": "开放状态和收费以现场及官方/管理方发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Normal%20University%20Library.jpg?width=1200",
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "crowd": "适中",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-07-03",
+    "updatedAt": "2026-07-03"
+  },
+  {
+    "id": "bishan-childrens-park-skyshuttle",
+    "name": "璧山儿童公园云巴站打卡点",
+    "district": "璧山",
+    "type": "网红点",
+    "subtitle": "璧山 · 云巴 · 亲子打卡",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20SkyShuttle%20Children%27s%20Park%20Station.jpg?width=1200"
+    ],
+    "coords": {
+      "lat": 29.558556,
+      "lng": 106.202377
+    },
+    "heat": 72,
+    "tags": [
+      "云巴",
+      "亲子",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "云巴",
+      "亲子",
+      "新鲜感"
+    ],
+    "reason": "璧山云巴和儿童公园一带适合亲子轻打卡，交通元素比较有辨识度。",
+    "details": {
+      "地址": "重庆市璧山区儿童公园云巴站周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/校园/交通打卡场景，不支持露营水电火，严禁明火。",
+      "收费": "开放状态和收费以现场及官方/管理方发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20SkyShuttle%20Children%27s%20Park%20Station.jpg?width=1200",
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "crowd": "适中",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-07-03",
+    "updatedAt": "2026-07-03"
+  },
+  {
+    "id": "bishan-dongyue-park-skyshuttle",
+    "name": "璧山东岳公园云巴站打卡点",
+    "district": "璧山",
+    "type": "网红点",
+    "subtitle": "璧山 · 云巴 · 公园周边",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20SkyShuttle%20Dongyue%20Park%20Station.jpg?width=1200"
+    ],
+    "coords": {
+      "lat": 29.570541,
+      "lng": 106.202019
+    },
+    "heat": 71,
+    "tags": [
+      "云巴",
+      "公园",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "云巴",
+      "公园",
+      "轻打卡"
+    ],
+    "reason": "东岳公园站周边适合璧山短途游顺路拍照。",
+    "details": {
+      "地址": "重庆市璧山区东岳公园云巴站周边",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/校园/交通打卡场景，不支持露营水电火，严禁明火。",
+      "收费": "开放状态和收费以现场及官方/管理方发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20SkyShuttle%20Dongyue%20Park%20Station.jpg?width=1200",
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "crowd": "适中",
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "addedAt": "2026-07-03",
+    "updatedAt": "2026-07-03"
   }
 ];
