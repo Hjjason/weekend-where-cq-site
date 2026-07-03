@@ -3596,5 +3596,230 @@
     "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
     "addedAt": "2026-07-03",
     "updatedAt": "2026-07-03"
+  },
+  {
+    "id": "wd-q803748",
+    "name": "白鹤梁",
+    "district": "涪陵",
+    "type": "网红点",
+    "subtitle": "涪陵 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baiheliang%20Underwater%20Museum.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Baiheliang%20Underwater%20Museum.JPG?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.715,
+      "lng": 107.3875
+    },
+    "tags": [
+      "人文",
+      "建筑",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "人文",
+      "建筑",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市涪陵白鹤梁周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q803748），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-04",
+    "updatedAt": "2026-07-04"
+  },
+  {
+    "id": "wd-q5648246",
+    "name": "韩家沱长江大桥",
+    "district": "涪陵",
+    "type": "网红点",
+    "subtitle": "涪陵 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanjiatuo%20Yangtze%20River%20Bridge.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Hanjiatuo%20Yangtze%20River%20Bridge.JPG?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.767694,
+      "lng": 107.417278
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市涪陵韩家沱长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q5648246），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-04",
+    "updatedAt": "2026-07-04"
+  },
+  {
+    "id": "zhaojuadu-water-park",
+    "name": "赵家渡水生态公园",
+    "district": "合川",
+    "type": "公园",
+    "subtitle": "合川 · 水生态 · 亲水散步",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Zhaojuadu%20Water%20Ecological%20Park%2C%20Hechuan%2C%20Chongqing%2C%20China.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "heat": 73,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.996,
+      "lng": 106.258
+    },
+    "tags": [
+      "公园",
+      "亲水",
+      "散步"
+    ],
+    "reasonKeywords": [
+      "亲水",
+      "公园",
+      "轻松"
+    ],
+    "reason": "水生态公园适合轻松散步、亲水观景和区县短途游。",
+    "details": {
+      "地址": "重庆市合川区赵家渡水生态公园",
+      "停车": "周边停车资源以现场和地图为准，周末建议错峰。",
+      "水电火": "城市游览/观景场景，不支持露营水电火，严禁明火。",
+      "收费": "公共观景或开放空间通常免费，具体以现场及官方/商家发布为准。",
+      "夜宿": "不支持夜宿。",
+      "汽车露营": "不支持汽车露营。",
+      "周边": "周边餐饮、便利店和公共交通可用地图提前复核。",
+      "充电桩": "周边商圈或公共停车场充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "图片来自 Wikimedia Commons 可复用授权资源，保留作者、许可与原始链接用于后续合规审计；不使用小红书、抖音、点评、美团、高德、百度等平台用户上传图片。",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zhaojuadu%20Water%20Ecological%20Park%2C%20Hechuan%2C%20Chongqing%2C%20China.jpg?width=1200",
+    "weatherText": "更新中",
+    "addedAt": "2026-07-04",
+    "updatedAt": "2026-07-04"
+  },
+  {
+    "id": "wd-q3334941",
+    "name": "云阳长江大桥",
+    "district": "云阳",
+    "type": "网红点",
+    "subtitle": "云阳 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yunyang%20Yangtze%20River%20Bridge.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Yunyang%20Yangtze%20River%20Bridge.JPG?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 30.9155,
+      "lng": 108.712
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市云阳云阳长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q3334941），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-04",
+    "updatedAt": "2026-07-04"
+  },
+  {
+    "id": "wd-q197144",
+    "name": "张桓侯庙",
+    "district": "云阳",
+    "type": "网红点",
+    "subtitle": "云阳 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Fei%20Temple%2005.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Fei%20Temple%2005.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 30.912496413,
+      "lng": 108.699044018
+    },
+    "tags": [
+      "人文",
+      "建筑",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "人文",
+      "建筑",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市云阳张桓侯庙周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q197144），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-04",
+    "updatedAt": "2026-07-04"
   }
 ]
