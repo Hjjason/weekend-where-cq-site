@@ -4271,5 +4271,230 @@
     "sourceNote": "自动发现候选：地点来自 Wikidata（Q3551746），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
     "addedAt": "2026-07-06",
     "updatedAt": "2026-07-06"
+  },
+  {
+    "id": "wd-q10902846",
+    "name": "北山摩崖造像",
+    "district": "大足",
+    "type": "徒步",
+    "subtitle": "大足 · 徒步 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20rock%20carvings%20beishan%20pagoda%20and%20buddhas.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%20rock%20carvings%20beishan%20pagoda%20and%20buddhas.JPG?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.714134359,
+      "lng": 105.707353382
+    },
+    "tags": [
+      "自然",
+      "徒步",
+      "风景"
+    ],
+    "reasonKeywords": [
+      "自然",
+      "徒步",
+      "风景"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市大足北山摩崖造像周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q10902846），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-07",
+    "updatedAt": "2026-07-07"
+  },
+  {
+    "id": "wd-q10949515",
+    "name": "宝顶山摩崖造像",
+    "district": "大足",
+    "type": "徒步",
+    "subtitle": "大足 · 徒步 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%202007%20685%20full%20view.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Dazu%202007%20685%20full%20view.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.754370242,
+      "lng": 105.794066303
+    },
+    "tags": [
+      "自然",
+      "徒步",
+      "风景"
+    ],
+    "reasonKeywords": [
+      "自然",
+      "徒步",
+      "风景"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市大足宝顶山摩崖造像周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q10949515），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-07",
+    "updatedAt": "2026-07-07"
+  },
+  {
+    "id": "wd-q5443420",
+    "name": "丰都长江大桥",
+    "district": "丰都",
+    "type": "网红点",
+    "subtitle": "丰都 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fengdu%20Bridge-2.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Fengdu%20Bridge-2.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.855417,
+      "lng": 107.669722
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市丰都丰都长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q5443420），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-07",
+    "updatedAt": "2026-07-07"
+  },
+  {
+    "id": "wd-q17160969",
+    "name": "豐都長江二橋",
+    "district": "丰都",
+    "type": "网红点",
+    "subtitle": "丰都 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Second%20Fengdu%20Yangtze%20River%20Bridge%20%2846076959862%29.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Second%20Fengdu%20Yangtze%20River%20Bridge%20%2846076959862%29.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.868055555,
+      "lng": 107.707777777
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市丰都豐都長江二橋周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q17160969），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-07",
+    "updatedAt": "2026-07-07"
+  },
+  {
+    "id": "wd-q5443434",
+    "name": "奉节长江大桥",
+    "district": "奉节",
+    "type": "网红点",
+    "subtitle": "奉节 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fengjie%20Yangtze%20River%20Bridge.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Fengjie%20Yangtze%20River%20Bridge.JPG?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 31.020306,
+      "lng": 109.480944
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市奉节奉节长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q5443434），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-07",
+    "updatedAt": "2026-07-07"
   }
 ]
