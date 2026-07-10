@@ -5171,5 +5171,230 @@
     "sourceNote": "自动发现候选：地点来自 Wikidata（Q4848680），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
     "addedAt": "2026-07-10",
     "updatedAt": "2026-07-10"
+  },
+  {
+    "id": "wd-q3267717",
+    "name": "瞿塘峡",
+    "district": "重庆市",
+    "type": "网红点",
+    "subtitle": "重庆市 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1963-01%201963%E5%B9%B4%20%E7%9E%BF%E5%A1%98%E5%B3%A1.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/1963-01%201963%E5%B9%B4%20%E7%9E%BF%E5%A1%98%E5%B3%A1.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 31.04305556,
+      "lng": 109.56166667
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市重庆市瞿塘峡周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q3267717），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-11",
+    "updatedAt": "2026-07-11"
+  },
+  {
+    "id": "wd-q653093",
+    "name": "石板坡长江大桥",
+    "district": "重庆市",
+    "type": "网红点",
+    "subtitle": "重庆市 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibanpo%20Bridge%20in%20Chongqing.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shibanpo%20Bridge%20in%20Chongqing.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.545556,
+      "lng": 106.559889
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市重庆市石板坡长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q653093），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-11",
+    "updatedAt": "2026-07-11"
+  },
+  {
+    "id": "wd-q7496018",
+    "name": "石板沟长江大桥",
+    "district": "重庆市",
+    "type": "网红点",
+    "subtitle": "重庆市 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fuling%20Shibangou%20Yangtze%20River%20Bridge.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Fuling%20Shibangou%20Yangtze%20River%20Bridge.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.730694,
+      "lng": 107.405944
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市重庆市石板沟长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q7496018），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-11",
+    "updatedAt": "2026-07-11"
+  },
+  {
+    "id": "wd-q5121327",
+    "name": "磁器口 (重庆)",
+    "district": "重庆市",
+    "type": "网红点",
+    "subtitle": "重庆市 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8%E7%9A%84%E7%A3%81%E5%99%A8%E5%8F%A3.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E4%BA%BA%E5%A4%B4%E6%94%92%E5%8A%A8%E7%9A%84%E7%A3%81%E5%99%A8%E5%8F%A3.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.5812,
+      "lng": 106.4497
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市重庆市磁器口 (重庆)周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q5121327），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-11",
+    "updatedAt": "2026-07-11"
+  },
+  {
+    "id": "wd-q653217",
+    "name": "罗汉寺 (重庆)",
+    "district": "重庆市",
+    "type": "网红点",
+    "subtitle": "重庆市 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Luohan%20Temple%2031600-Chongqing%20%2843682020725%29.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Luohan%20Temple%2031600-Chongqing%20%2843682020725%29.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.5625,
+      "lng": 106.57777778
+    },
+    "tags": [
+      "人文",
+      "建筑",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "人文",
+      "建筑",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市重庆市罗汉寺 (重庆)周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q653217），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-11",
+    "updatedAt": "2026-07-11"
   }
 ]
