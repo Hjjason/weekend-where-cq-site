@@ -6656,5 +6656,140 @@
     "sourceNote": "自动发现候选：地点来自 Wikidata（Q4644510），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
     "addedAt": "2026-07-19",
     "updatedAt": "2026-07-19"
+  },
+  {
+    "id": "wd-q97503274",
+    "name": "沙坪公园",
+    "district": "沙坪坝",
+    "type": "公园",
+    "subtitle": "沙坪坝 · 公园 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Gate%20of%20Shaping%20Park.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Gate%20of%20Shaping%20Park.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.55427,
+      "lng": 106.45115
+    },
+    "tags": [
+      "公园",
+      "散步",
+      "亲子"
+    ],
+    "reasonKeywords": [
+      "公园",
+      "散步",
+      "亲子"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市沙坪坝沙坪公园周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q97503274），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-21",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wd-q47010284",
+    "name": "驸马长江大桥",
+    "district": "万州",
+    "type": "网红点",
+    "subtitle": "万州 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FumaYangtzeByHighestBridges.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/FumaYangtzeByHighestBridges.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 30.834444444,
+      "lng": 108.469166666
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市万州驸马长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q47010284），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-21",
+    "updatedAt": "2026-07-21"
+  },
+  {
+    "id": "wd-q135490007",
+    "name": "双堡特大桥",
+    "district": "武隆",
+    "type": "网红点",
+    "subtitle": "武隆 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shuangbao%20Bridge.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Shuangbao%20Bridge.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.295,
+      "lng": 107.473888888
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市武隆双堡特大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q135490007），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-07-21",
+    "updatedAt": "2026-07-21"
   }
 ]
