@@ -7466,5 +7466,185 @@ window.WEEKEND_PLACES = [
     "sourceNote": "自动发现候选：地点来自 Wikidata（Q27966757），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
     "addedAt": "2026-08-06",
     "updatedAt": "2026-08-06"
+  },
+  {
+    "id": "wd-q140072858",
+    "name": "奎星阁",
+    "district": "江津",
+    "type": "网红点",
+    "subtitle": "江津 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B1%9F%E6%B4%A5%E5%A5%8E%E6%98%9F%E9%98%81.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B1%9F%E6%B4%A5%E5%A5%8E%E6%98%9F%E9%98%81.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.29001,
+      "lng": 106.25476
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市江津奎星阁周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q140072858），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-08-14",
+    "updatedAt": "2026-08-14"
+  },
+  {
+    "id": "wd-q109349765",
+    "name": "聂荣臻元帅陈列馆",
+    "district": "江津",
+    "type": "网红点",
+    "subtitle": "江津 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%81%82%E8%8D%A3%E8%87%BB%E5%85%83%E5%B8%85%E9%99%88%E5%88%97%E9%A6%86%20%E5%85%A8%E8%B2%8C.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%81%82%E8%8D%A3%E8%87%BB%E5%85%83%E5%B8%85%E9%99%88%E5%88%97%E9%A6%86%20%E5%85%A8%E8%B2%8C.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.277549,
+      "lng": 106.2579396
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市江津聂荣臻元帅陈列馆周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q109349765），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-08-14",
+    "updatedAt": "2026-08-14"
+  },
+  {
+    "id": "wd-q22100173",
+    "name": "白居寺长江大桥",
+    "district": "巴南區",
+    "type": "网红点",
+    "subtitle": "巴南區 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baijusi%20Yangtze%20River%20Bridge1.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Baijusi%20Yangtze%20River%20Bridge1.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.431666666,
+      "lng": 106.506944444
+    },
+    "tags": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reasonKeywords": [
+      "桥景",
+      "江景",
+      "拍照"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市巴南區白居寺长江大桥周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q22100173），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-08-14",
+    "updatedAt": "2026-08-14"
+  },
+  {
+    "id": "wd-q139986494",
+    "name": "宁波市慈湖中学",
+    "district": "江北區",
+    "type": "网红点",
+    "subtitle": "江北區 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ci%60hu%20Middle%20School%202016.2.28.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Ci%60hu%20Middle%20School%202016.2.28.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.994184,
+      "lng": 121.449266
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市江北區宁波市慈湖中学周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q139986494），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-08-14",
+    "updatedAt": "2026-08-14"
   }
 ];
