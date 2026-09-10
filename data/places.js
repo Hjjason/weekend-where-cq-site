@@ -7691,5 +7691,230 @@ window.WEEKEND_PLACES = [
     "sourceNote": "自动发现候选：地点来自 Wikidata（Q8070973），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
     "addedAt": "2026-09-01",
     "updatedAt": "2026-09-01"
+  },
+  {
+    "id": "wd-q21051642",
+    "name": "慈母堂",
+    "district": "南岸",
+    "type": "网红点",
+    "subtitle": "南岸 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%85%88%E6%AF%8D%E5%B1%B1%E6%95%99%E5%A0%82-%E5%A4%A7%E9%97%A8%20-%20panoramio.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%85%88%E6%AF%8D%E5%B1%B1%E6%95%99%E5%A0%82-%E5%A4%A7%E9%97%A8%20-%20panoramio.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.59021,
+      "lng": 106.61904
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市南岸慈母堂周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q21051642），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-09-10",
+    "updatedAt": "2026-09-10"
+  },
+  {
+    "id": "wd-q5104663",
+    "name": "重庆南开中学",
+    "district": "沙坪坝",
+    "type": "网红点",
+    "subtitle": "沙坪坝 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Office%20Building%20of%20Nankai.JPG?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Office%20Building%20of%20Nankai.JPG?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.56361111,
+      "lng": 106.45666667
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市沙坪坝重庆南开中学周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q5104663），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-09-10",
+    "updatedAt": "2026-09-10"
+  },
+  {
+    "id": "wd-q10878779",
+    "name": "九宫庙街道",
+    "district": "大渡口",
+    "type": "网红点",
+    "subtitle": "大渡口 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E4%B9%9D%E5%AE%AB%E5%BA%99.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E4%B9%9D%E5%AE%AB%E5%BA%99.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.47844,
+      "lng": 106.47998
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市大渡口九宫庙街道周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q10878779），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-09-10",
+    "updatedAt": "2026-09-10"
+  },
+  {
+    "id": "wd-q18201907",
+    "name": "中国西部科学院",
+    "district": "北碚",
+    "type": "网红点",
+    "subtitle": "北碚 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Natural%20History%20Museum.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Chongqing%20Natural%20History%20Museum.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.82353,
+      "lng": 106.41475
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市北碚中国西部科学院周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q18201907），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-09-10",
+    "updatedAt": "2026-09-10"
+  },
+  {
+    "id": "wd-q10940495",
+    "name": "天生街道",
+    "district": "北碚",
+    "type": "网红点",
+    "subtitle": "北碚 · 网红点 · 公开图片候选",
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E7%A2%9A4A.jpg?width=1200",
+    "photos": [
+      "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8C%97%E7%A2%9A4A.jpg?width=1200"
+    ],
+    "phone": [
+      "暂无公开电话"
+    ],
+    "weatherText": "更新中",
+    "heat": 70,
+    "crowd": "适中",
+    "coords": {
+      "lat": 29.8287,
+      "lng": 106.43222
+    },
+    "tags": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reasonKeywords": [
+      "热门",
+      "拍照",
+      "周末"
+    ],
+    "reason": "来自 Wikidata 与 Wikimedia Commons 的公开候选地点，具备坐标和可核验真实图片，适合纳入周末出行备选。",
+    "details": {
+      "地址": "重庆市北碚天生街道周边",
+      "停车": "停车与开放状态以现场、官方或地图实时信息为准。",
+      "水电火": "普通游览场景，不支持露营水电火，严禁明火；若为营地需出发前单独复核。",
+      "收费": "收费、预约和开放状态以现场及官方/商家发布为准。",
+      "夜宿": "默认不支持夜宿，具体以现场管理为准。",
+      "汽车露营": "默认不支持汽车露营，具体以现场管理为准。",
+      "周边": "周边餐饮、便利店和公共交通建议用地图提前复核。",
+      "充电桩": "周边停车场或商圈充电桩建议出发前用地图复核。"
+    },
+    "sourceNote": "自动发现候选：地点来自 Wikidata（Q10940495），图片来自 Wikimedia Commons 可复用授权资源；上线后仍保留人工复核空间。",
+    "addedAt": "2026-09-10",
+    "updatedAt": "2026-09-10"
   }
 ];
